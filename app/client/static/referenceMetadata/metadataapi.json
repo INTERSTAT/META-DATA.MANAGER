@@ -1,5 +1,5 @@
 {
-	"baseUrl": "http://vmsdmxdev/ISTAT_TOOLKIT/METADATAAPI",
+	"baseUrl": "https://interstat.opsi-lab.it/METADATA_API",
 	"baseUrlClient": "http://vmsdmxdev/ISTAT_TOOLKIT/MDM_Client",
 	"getMetadata": "/api/getMetadata",
 	"pingMetadataApi": "/Ping",
